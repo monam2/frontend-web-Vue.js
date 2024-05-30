@@ -1,7 +1,5 @@
 # Nagne
 
-# Nagne
-
 ![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2F2b49d2b1-10db-4316-8316-448394b91d70%2FUntitled.png?table=block&id=9574df24-e512-4a19-aa02-e4bc33552553&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=670&userId=&cache=v2)
 
 ## Member
