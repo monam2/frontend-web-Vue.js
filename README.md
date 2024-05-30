@@ -1,8 +1,98 @@
-# Nagne Trip
+# Nagne
 
-## Stack : Vue3.js, Pinia, Vanilla CSS, BootStrap
+# Nagne
 
-- Git Convention
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2F2b49d2b1-10db-4316-8316-448394b91d70%2FUntitled.png?table=block&id=9574df24-e512-4a19-aa02-e4bc33552553&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=670&userId=&cache=v2)
+
+## Member
+
+- 강창우(kangcw0107@gmail.com) - 프론트엔드 100%
+- 김두열(enduf768640@gmail.com) - 백엔드 100%
+
+## Introduce
+
+**나그네**는 이러한 고민에서 시작되었습니다.
+
+- 여행 계획을 효율적으로 짤 수 없을까?
+- 여행 정보를 좀 더 쉽게 얻을 수 없을까?
+- 요즘 핫플레이스를 알 수 있는 방법이 없을까?
+
+**나그네는 여행 문화의 활성화를 목표로 합니다.**
+
+여행 계획을 자유롭게 공유하고, 여행의 즐거움과 가치를 더 많은 사람과 나누고, 함께 새로운 여행지를 발견하고 떠나는, **우리는 나그네입니다.**
+
+## Progress Period
+
+2024.05.02 ~ 2024.05.24 (4 Week)
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2Fe853a51b-b30e-40fe-a58e-2397089e7c58%2FUntitled.png?table=block&id=d9eba0ae-6bcd-425e-946d-90c00b169ca0&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=2000&userId=&cache=v2)
+
+## Dev Environment
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2Fca6b6514-9509-4f3e-96cc-86fdd2010adc%2FUntitled.png?table=block&id=b5202888-c246-4932-be75-777fc0950956&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=2000&userId=&cache=v2)
+
+## FlowChart
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2Fc856a00a-07bb-47df-83a2-4aeb235f36bd%2FUntitled.png?table=block&id=66bfe760-d644-454d-940a-7631f2f8e664&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=2000&userId=&cache=v2)
+
+## ERD
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2F7fe9762d-0c93-47b3-b0d4-3ed2015898f8%2FUntitled.png?table=block&id=bd59406f-4311-41cf-a1b0-612c1b4d2c4f&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=2000&userId=&cache=v2)
+
+## WireFrame
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2F95b9b018-6c9d-4ab5-970e-7a5853cc2cb3%2FUntitled.png?table=block&id=3065cc75-c959-4bf6-865a-c21bb40da5c1&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=670&userId=&cache=v2)
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2Ff85fcab3-88b3-469e-9296-4649476f614f%2FUntitled.png?table=block&id=faf9325e-7c31-4606-b96f-092fcc3aaa61&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=670&userId=&cache=v2)
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2F1a8ca3cd-629b-4e18-9482-3c625d05548c%2FUntitled.png?table=block&id=0fc87eb9-54c7-4de0-b459-dc7bd217d610&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=670&userId=&cache=v2)
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2F3b1ce62b-87da-42d8-81a9-7dedd0269d5b%2FUntitled.png?table=block&id=be4793c7-725b-486e-85c5-ec603f9bb164&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=670&userId=&cache=v2)
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2Fe85be79a-c417-4425-9fb3-52685e8d51c4%2FUntitled.png?table=block&id=155473ef-f552-4039-8eda-9dd6a36ff5c3&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=670&userId=&cache=v2)
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2F0cfe18e0-3e00-4d7f-afc7-943641c3e864%2FUntitled.png?table=block&id=e34c1433-16ad-42b9-8de1-e3e226c2cb45&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=670&userId=&cache=v2)
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2F28dd166e-fd70-4b8c-b54f-6f59a4c1384b%2FUntitled.png?table=block&id=532ace60-cee9-4c0a-8139-3d8be494a771&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=670&userId=&cache=v2)
+
+![Untitled](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2Fea24eec6-8ee6-47b2-8644-7abc5e59c67e%2FUntitled.png?table=block&id=24f703b2-4e54-4713-abae-bab684896351&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=670&userId=&cache=v2)
+
+
+## Features
+
+1. 회원 관리
+    - 로그인/회원가입, 소셜 로그인(구글, 카카오)
+    - 회원 정보 수정 및 프로필 사진 변경
+    - 회원 탈퇴
+    - 팔로우/팔로워 기능
+    - 좋아요, 팔로우, 댓글 알림 기능
+2. 게시물
+    - 게시물 조회, 작성, 수정, 삭제
+    - 여러 장의 이미지 첨부해 게시물 작성
+    - 여행 계획을 게시물로 작성
+    - 좋아요, 댓글, 북마크 기능
+3. 국내 관광지 정보 확인
+    - 여행지 분류 필터, 키워드 검색 기능
+    - 마커 클릭시 상세보기
+    - 가고 싶은 관광지에 추가해, 계획 생성
+4. 여행 계획 생성
+    - 추가한 관광지 순서 변경 지원
+    - AI를 통한 여행 계획 생성 및 공유
+5. 기타
+    - 실시간 날씨 확인
+    - 베스트 게시물 확인(좋아요 순, 댓글 순)
+
+## Demonstrate
+
+[![시연영상](https://pinnate-sailfish-ba1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4067e28d-3e93-4305-bee4-6f9fe6978ac4%2Fae27d6ac-25fb-4caa-9c2c-87ec23773e60%2F2024-05-27_00_59_14.png?table=block&id=3aa1ca10-49d9-404a-a6bc-b0d034c0a2a1&spaceId=4067e28d-3e93-4305-bee4-6f9fe6978ac4&width=1420&userId=&cache=v2)]()(https://www.youtube.com/watch?v=oAt-QPJr80U)
+
+
+## Trouble Shooting
+
+1. 토큰 무한 갱신으로 인한 로그아웃 불가
+[https://groovy-balaur-25d.notion.site/e106186a1b1b46529de92fb28ea99e3f?pvs=4](https://www.notion.so/e106186a1b1b46529de92fb28ea99e3f?pvs=21)
+
+## Git Convention
     
     ```
       Feat :
@@ -45,11 +135,6 @@
       <https://chlolisher.tistory.com/173>
     ```
     
-
-## Trouble Shooting
-
-1. 토큰 무한 갱신으로 인한 로그아웃 불가
-[https://groovy-balaur-25d.notion.site/e106186a1b1b46529de92fb28ea99e3f?pvs=4](https://www.notion.so/e106186a1b1b46529de92fb28ea99e3f?pvs=21)
 
 ### 2024.05.24
 
