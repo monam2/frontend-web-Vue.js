@@ -90,6 +90,9 @@
 1. 토큰 무한 갱신으로 인한 로그아웃 불가
 [https://groovy-balaur-25d.notion.site/e106186a1b1b46529de92fb28ea99e3f?pvs=4](https://www.notion.so/e106186a1b1b46529de92fb28ea99e3f?pvs=21)
 
+2. 게시글 무한 로딩 문제 해결
+[https://groovy-balaur-25d.notion.site/319ea3d7ecc94ccb997bafcf70fd28fd?pvs=4](https://groovy-balaur-25d.notion.site/319ea3d7ecc94ccb997bafcf70fd28fd?pvs=4)
+
 ## Git Convention
     
     ```
